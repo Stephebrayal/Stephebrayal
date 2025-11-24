@@ -1,6 +1,6 @@
-# 👋 Salut, moi c’est **Steph** !
+# 👋 Salut, moi c’est **Stephe** !
 
-🎓 Étudiant passionné par le développement web  
+🎓 Étudiant passionné par le développement Fullstack  
 ⚽ Fan de football et créateur de projets interactifs  
 💻 J’aime créer, apprendre et progresser à chaque nouveau projet
 
@@ -21,11 +21,13 @@
 ## ⭐ Projets principaux
 
 ### 🔹 **Football Quiz**
-Un quiz interactif réalisé en HTML / CSS / JavaScript  
+Un quiz interactif réalisé en HTML / CSS / JavaScript lors de mes débuts d'appentissage ce quiz fait ma fierté
 🎯 Correction automatique, score dynamique et appréciation  
-🟢 Projet parfait pour montrer tes compétences front-end  
-📌 *(Ajoute ici le lien vers ton repo)*
+📌 https://stephepenwe.helioho.st/Quiz/
 
+###  🔹 **Demengeous Xpress**
+Une plateforme interactive de gestion de déménagement où les utilisaterus peuvent avoir un compte client ou déménageur
+📌 https://moduleweb.esigelec.fr/grp_6_4/
 ---
 
 ## 📊 Statistiques GitHub
@@ -38,9 +40,9 @@ Un quiz interactif réalisé en HTML / CSS / JavaScript
 
 ## 📬 Me contacter
 
-📧 Email : *(ajoute ton email)*  
-🌐 Portfolio : *(si tu en as un)*  
-💼 LinkedIn : *(ton lien LinkedIn si tu veux)*  
+📧 Email : stephe.penwe@group-esigelec.org  
+🌐 Portfolio : https://stephepenwe.helioho.st/ 
+💼 LinkedIn : linkedin.com/in/stephe-brayal-penwe-ngapinsi-b73243244  
 
 ---
 
