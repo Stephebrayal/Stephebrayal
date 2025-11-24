@@ -28,9 +28,10 @@ Un quiz interactif réalisé en HTML / CSS / JavaScript lors de mes débuts d'ap
 🎯 Correction automatique, score dynamique et appréciation  
 📌 https://stephepenwe.helioho.st/Quiz/
 
-###  🔹 **Demengeous Xpress**
+### 🔹 **Football Quiz**
 Une plateforme interactive de gestion de déménagement où les utilisaterus peuvent avoir un compte client ou déménageur
 📌 https://moduleweb.esigelec.fr/grp_6_4/
+
 ---
 
 ## 📊 Statistiques GitHub
