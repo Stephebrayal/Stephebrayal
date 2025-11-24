@@ -24,22 +24,24 @@
 <!-- Systèmes & serveurs -->
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
+![XAMPP](https://img.shields.io/badge/XAMPP-FF9900?style=for-the-badge&logo=xampp&logoColor=white)
 
 <!-- Bases de données -->
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white)
 
 <!-- Modélisation -->
 ![UML](https://img.shields.io/badge/UML-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCA0OC40IDQ4LjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHJlY3Qgd2lkdGg9IjQ4LjQiIGhlaWdodD0iNDguNCIgZmlsbD0iI2ZmZiIvPjx0ZXh0IHg9IjEwIiB5PSIyOCIgZm9udC1zaXplPSIxNnB4IiBmaWxsPSIjMDAwIj5VTUw8L3RleHQ+PC9zdmc+)
 
 <!-- Réseaux -->
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![FileZilla](https://img.shields.io/badge/FileZilla-FA1C1C?style=for-the-badge&logo=filezilla&logoColor=white)
 
 <!-- Outils -->
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
 ## ⭐ Projets principaux
 
 ### 🔹 **Football Quiz**
