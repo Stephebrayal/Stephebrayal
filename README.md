@@ -34,19 +34,13 @@ Une plateforme interactive de gestion de déménagement où les utilisaterus peu
 
 ---
 
-## 📊 Statistiques GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Stephebrayal&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stephebrayal&layout=compact&theme=tokyonight)
-
----
-
 ## 📬 Me contacter
 
-📧 Email : stephe.penwe@group-esigelec.org  
-🌐 Portfolio : https://stephepenwe.helioho.st/ 
-💼 LinkedIn : linkedin.com/in/stephe-brayal-penwe-ngapinsi-b73243244  
+📧 Email : stephe.penwe@group-esigelec.org 
+
+🌐 Portfolio : https://stephepenwe.helioho.st/
+
+💼 LinkedIn : https://linkedin.com/in/stephe-brayal-penwe-ngapinsi-b73243244/ 
 
 ---
 
